@@ -3,14 +3,6 @@ body{
   
 }
 
-a:active{
-    text-decoration:none;
-}
-
-a:visited{
-        text-decoration:none;
-    }
-
 .imagem{
     height: 20vh;
 }
